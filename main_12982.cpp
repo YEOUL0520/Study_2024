@@ -1,5 +1,3 @@
-#include <iostream>
-#include <stdio.h>
 #include <string>
 #include <vector>
 #include <algorithm>  // sort
@@ -9,17 +7,17 @@ using namespace std;
 int solution(vector<int> d, int budget) {
     int n = 0;
 
-    // ¿À¸§Â÷¼øÀ¸·Î Á¤·Ä
+    // ì˜¤ë¦„ì°¨ìˆœìœ¼ë¡œ ì •ë ¬
     sort(d.begin(), d.end());
 
-    // ÀÛÀº ¿¹»êºÎÅÍ ºÎ¼­ Áö¿ø
+    // ì‘ì€ ì˜ˆì‚°ë¶€í„° ë¶€ì„œ ì§€ì›
     for (int i = 0; i < d.size(); i++)
     {
         if (budget < d[i])
             break;
 
         budget -= d[i];
-        n++;  // Áö¿øÇÑ ºÎ¼­ ¼ö ++
+        n++;  // ì§€ì›í•œ ë¶€ì„œ ìˆ˜ ++
     }
 
     return n;
