@@ -63,3 +63,9 @@ git commit -m "[1주차] Hello World / LV.1 / 1분" -m "https://www.acmicpc.net/
 <br />
 
 ## 📌 참여자와 진행도
+<br>
+|<img src="https://avatars.githubusercontent.com/u/118596886?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/108114351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/182756186?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/92625845?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|Hyelim<br/>[@hyellm](https://github.com/hyellm)|seohee<br/>[@sseoh47](https://github.com/sseoh47)|[@owhat02](https://github.com/owhat02)|YEOUL<br/>[@YEOUL0520](https://github.com/YEOUL0520)|
+
+<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
