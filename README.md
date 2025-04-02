@@ -67,5 +67,5 @@ git commit -m "[1주차] Hello World / LV.1 / 1분" -m "https://www.acmicpc.net/
 |:-:|:-:|:-:|:-:|
 |[Hyelim](https://github.com/hyellm)|[seohee](https://github.com/sseoh47)|[owhat02](https://github.com/owhat02)|[YEOUL](https://github.com/YEOUL0520)|
 |<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>|
-|:---:|:---:|:---:|:---:|
+|:-:|:-:|:-:|:-:|
 |Hyelim<br/>[@hyellm](https://github.com/hyellm)|seohee<br/>[@sseoh47](https://github.com/sseoh47)|[@owhat02](https://github.com/owhat02)|YEOUL<br/>[@YEOUL0520](https://github.com/YEOUL0520)|
