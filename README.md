@@ -2,7 +2,6 @@
 ## 📌 스터디 소개
 
 2024학년도 2학기 ESC 소그룹 스터디입니다.
-~ 2025 계속 진행 중!
 
 <br>
 
@@ -66,5 +65,4 @@ git commit -m "[1주차] Hello World / LV.1 / 1분" -m "https://www.acmicpc.net/
 |<img src="https://avatars.githubusercontent.com/u/118596886?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/108114351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/182756186?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/92625845?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |[Hyelim](https://github.com/hyellm)|[seohee](https://github.com/sseoh47)|[owhat02](https://github.com/owhat02)|[YEOUL](https://github.com/YEOUL0520)|
-|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~04|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>Week01~04|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~04|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>Week01~04|
-|:-:|:-:|:-:|:-:|
+|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~06|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>Week01~06|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~04|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>Week01~08|
