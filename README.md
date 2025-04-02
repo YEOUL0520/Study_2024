@@ -30,7 +30,7 @@
 <br />
 
 ## 📌 commit 규칙
-- commit 메세지: [n주차] 문제이름 / 난이도 / 걸린시간 (시간은 자유 기재)
+- commit 메세지: [n주차] 문제이름 / 난이도or번호 / 걸린시간 (시간은 기재 자유)
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
@@ -41,8 +41,8 @@ git commit -m "[1주차] Hello World / LV.1 / 1분" -m "https://www.acmicpc.net/
 <br />
 
 ## 📌 PR 규칙
-- PR 제목: 이름 / 주차
--  ```jaewon han / 8월 1주차```
+- PR 제목: 이름/주차
+-  ```류효정/1주```
 -  comment의 경우 문제 해결 방식, 어려웠던 부분, 의견 교환이 필요한 부분 등을 적어주세요.
 
 <br />
